@@ -9,8 +9,6 @@ body {
     margin: auto;
 }
 
-
-
 header {
     background-color: #ebebeb;
     text-align: center;
@@ -19,7 +17,6 @@ header {
     border-color: #ebebeb;
     border-width: 5px;
     margin-bottom: 10px;
-
 }
 
 nav {
@@ -30,7 +27,6 @@ nav {
     border-color: #ebebeb;
     border-width: 5px;
     margin-bottom: 20px;
-
 }
 
 section {
@@ -64,7 +60,6 @@ h1 {
     background-color: #ebebeb;
     padding: 10px;
     color: #666;
-
 }
 
 p {
@@ -73,7 +68,6 @@ p {
     background-color: #ebebeb;
     padding: 10px;
     color: #666;
-
 }
 
 aside {
@@ -92,7 +86,6 @@ aside {
 
 .clear {
     clear: both;
-
 }
 
 footer {
@@ -103,5 +96,4 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #ebebeb;
-
 }
